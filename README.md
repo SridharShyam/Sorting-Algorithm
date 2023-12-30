@@ -64,10 +64,9 @@ print(list_of_nums)
 ```
 
 ## Output:
+![Screenshot 2023-12-30 193607](https://github.com/SridharShyam/Sorting-Algorithm/assets/144871368/c951823d-1021-4d8a-8ce3-b5a4dd7194c5)
 
-![Alt text](<Screenshot 2023-12-30 193607.png>)
-
-![Alt text](<Screenshot 2023-12-30 193630.png>)
+![Screenshot 2023-12-30 193630](https://github.com/SridharShyam/Sorting-Algorithm/assets/144871368/f9e9611f-4f05-4cda-be00-88902608309d)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
